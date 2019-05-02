@@ -26,5 +26,8 @@
 ## Animations
 * [Hero Animation: how to animate across pages](https://medium.com/flutter-community/a-deep-dive-into-hero-widgets-in-flutter-d34f441eb026)
 
+## Flutter Awesome-Page (Collection of Widges etc.)
+[Solido/awsome-flutter](https://github.com/Solido/awesome-flutter)
+
 ## Additional Tools
 * [Create your UI without writing one line of code](https://flutterstudio.app/)
