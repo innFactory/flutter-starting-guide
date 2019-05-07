@@ -31,3 +31,7 @@
 
 ## Additional Tools
 * [Create your UI without writing one line of code](https://flutterstudio.app/)
+
+## Add code snippets for Visual Code
+Add the `dart.json` to your AppData folder e.g. `C:\Users\tonis\AppData\Roaming\Code\User\snippets` <br />
+Use the snippet: Just type e.g. `stateful` in a empty .dart file for creating a new stateful widget.
