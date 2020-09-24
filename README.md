@@ -1,6 +1,9 @@
 # flutter-starting-guide
 ![header](header.png)
 
+## Learn Dart Language
+* [Dart Programming Tutorial - Full Course](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&ab_channel=freeCodeCamp.org)
+
 ## Get Flutter
 * [Install Flutter](https://flutter.dev/docs/get-started/install)
 * [Setup your editor](https://flutter.dev/docs/get-started/editor)
